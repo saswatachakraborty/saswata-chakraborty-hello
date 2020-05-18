@@ -1,0 +1,4 @@
+hostname,ip,description
+router1,10.10.10.1,first router
+router2,10.10.10.2,second router
+switch1,10.10.10.2,axs switch
